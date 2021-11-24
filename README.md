@@ -73,5 +73,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+![OUTPUT1](./images/output1.png)
 
+![OUTPUT2](./images/output2.png)
 ## RESULT:
+The above simple webserver has been developed to display top five programming languages 
